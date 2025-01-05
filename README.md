@@ -4,44 +4,44 @@
 ---
 
 ## About Me
-I am a **Cloud and DevOps Engineer** with a strong passion for automation, infrastructure management, and optimizing continuous integration/delivery (CI/CD) workflows. I specialize in cloud platforms like **AWS** and **Azure**, containerization technologies like **Docker** and **Kubernetes**, and infrastructure automation tools like **Terraform** and **Ansible**. My goal is to leverage these technologies to design scalable, secure, and efficient cloud-native applications.
+I am a **Cloud and DevOps Engineer** with a deep passion for **automation**, **cloud computing**, and **continuous integration/delivery (CI/CD)** practices. With hands-on experience in technologies like **AWS**, **Azure**, **Docker**, **Kubernetes**, and **Terraform**, my primary goal is to design, implement, and scale cloud-native solutions that drive efficiency, security, and innovation.
 
-Currently, I am seeking **internship opportunities** in Cloud or DevOps Engineering to apply my skills and deepen my hands-on experience in real-world projects. I am eager to contribute to a dynamic team and gain exposure to industry best practices in cloud computing and DevOps.
+Currently, I am actively seeking **internship opportunities** in the field of Cloud or DevOps Engineering where I can apply my skills, gain real-world experience, and contribute to impactful projects. I am eager to collaborate with professionals who share the vision of transforming infrastructure automation and optimizing development workflows.
 
 🔧 **Core Skills**:
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **DevOps Tools**: Docker, Jenkins, Kubernetes, Terraform, Ansible
 - **CI/CD Pipelines**: Jenkins, GitLab CI, CircleCI
-- **Programming Languages**: Java, Python, JavaScript
+- **Programming Languages**: **Java** (focus on **Data Structures & Algorithms**), Python, JavaScript
 - **Infrastructure Automation**: Terraform, Ansible
 
 💬 **I am open to discussions on**:
-- DevOps best practices and automation
+- DevOps best practices and automation strategies
 - Cloud-native architectures and solutions
-- Infrastructure as Code (IaC)
-- Programming in **Java**, **Python**, **JavaScript**
+- Infrastructure as Code (IaC) with tools like **Terraform** and **Ansible**
+- Advanced **Java** programming and optimization techniques in **Data Structures & Algorithms (DSA)**
 
 📫 **Connect with me** on LinkedIn: [Suhel Khan](https://www.linkedin.com/in/suhelkhan781)
 
 ---
 
 ## 👀 I’m Interested In...
-- Designing and scaling cloud-native solutions that are both robust and cost-efficient.
-- Optimizing CI/CD pipelines and automating software deployment processes.
-- Contributing to automation in cloud infrastructure and reducing manual intervention.
-- **Securing an internship** to work with cutting-edge technologies and gain real-world experience in DevOps and Cloud Engineering.
+- Building robust, scalable, and cost-efficient cloud-native solutions.
+- Optimizing CI/CD pipelines to streamline software delivery.
+- Automating infrastructure management and reducing manual processes.
+- **Securing an internship** where I can apply my skills in DevOps, Cloud Engineering, and CI/CD optimization.
 
 ## 🌱 I’m Currently Learning...
-- Advanced **Kubernetes** features and patterns for efficient container orchestration.
-- **AWS Lambda** for building serverless applications.
-- **Go programming** for optimizing cloud-native systems and microservices.
-- Deepening my understanding of **Infrastructure as Code (IaC)** using **Terraform** and **Ansible**.
+- **Advanced Kubernetes** features and orchestration patterns for efficient container management.
+- Serverless architecture with **AWS Lambda** for building scalable applications.
+- **Go programming** for cloud-native application development and microservices.
+- Enhancing my knowledge of **Infrastructure as Code (IaC)** with **Terraform** and **Ansible**.
 
 ## 💞️ I’m Looking to Collaborate On...
-- Open-source projects related to DevOps and cloud-native application development.
-- Developing scalable and highly available systems using **AWS** and **Kubernetes**.
-- Automating infrastructure and enhancing CI/CD pipeline practices.
-- **Seeking an internship** where I can contribute to meaningful projects, refine my skills, and collaborate with experienced professionals.
+- Open-source DevOps projects that focus on automation and cloud-native development.
+- Building highly available and resilient systems using **AWS**, **Kubernetes**, and **Docker**.
+- Contributing to teams that optimize CI/CD workflows and infrastructure automation.
+- Seeking an internship where I can learn and grow by working on meaningful, real-world projects alongside experienced engineers.
 
 ## 📫 How to Reach Me...
 - **LinkedIn**: [Suhel Khan](https://www.linkedin.com/in/suhelkhan781)
@@ -52,16 +52,16 @@ Currently, I am seeking **internship opportunities** in Cloud or DevOps Engineer
 - He/Him
 
 ## ⚡ Fun Fact:
-- I love experimenting with new technologies and approaches. Whether it’s exploring new programming languages, frameworks, or DevOps practices, I thrive on learning and sharing innovative solutions that make systems more efficient and scalable.
+- I love experimenting with new technologies, frameworks, and practices. Whether it’s optimizing cloud infrastructure or building innovative solutions, I am always excited to explore, learn, and apply new concepts to real-world challenges.
 
 ---
 
 ## 📚 Continuous Learning Journey
-I am committed to professional growth through continuous learning and practical application. I’m focused on:
-- **Data Structures & Algorithms (DSA)**: Sharpening my problem-solving skills in **Java**, **Python**, and **JavaScript**.
-- Mastering cloud-native tools such as **Terraform**, **Kubernetes**, and **AWS Lambda**.
+I am dedicated to continuous growth, both in terms of technical expertise and practical application. Currently, I am focused on:
+- **Java-based Data Structures & Algorithms (DSA)**: Sharpening my problem-solving skills and enhancing my coding techniques in **Java**.
+- Mastering cloud-native tools like **Terraform**, **Kubernetes**, and **AWS Lambda** for efficient infrastructure management.
 - Improving infrastructure automation practices with **Ansible** and **Terraform**.
-- Building and deploying containerized microservices with **Docker** and **Kubernetes**.
+- Building, deploying, and scaling containerized microservices using **Docker** and **Kubernetes**.
 
 ---
 
