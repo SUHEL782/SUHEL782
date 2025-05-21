@@ -21,7 +21,7 @@ Currently, I am actively seeking **internship opportunities** in the field of Cl
 - Infrastructure as Code (IaC) with tools like **Terraform** and **Ansible**
 - Advanced **Java** programming and optimization techniques in **Data Structures & Algorithms (DSA)**
 
-📫 **Connect with me** on LinkedIn: [Suhel Khan](https://www.linkedin.com/in/suhelkhan781)
+📫 **Connect with me** on MyPortfolioPage: [Suhel Khan](https://workwithsuhel.netlify.app/)
 
 ---
 
