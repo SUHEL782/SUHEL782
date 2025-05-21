@@ -45,7 +45,6 @@ Currently, I am actively seeking **internship opportunities** in the field of Cl
 
 ## 📫 How to Reach Me...
 - **LinkedIn**: [Suhel Khan](https://www.linkedin.com/in/suhelkhan781)
-- **Portfolio**: [Suhel's Profile](https://workwithsuhel.netlify.app/)
 - **HackerRank**: [TheComputerSK](https://www.hackerrank.com/profile/thecomputersk)
 
 ## 😄 Pronouns:
