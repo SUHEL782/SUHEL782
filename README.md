@@ -44,8 +44,9 @@ Currently, I am actively seeking **internship opportunities** in the field of Cl
 - Seeking an internship where I can learn and grow by working on meaningful, real-world projects alongside experienced engineers.
 
 ## 📫 How to Reach Me...
-- **LinkedIn**: [Suhel Khan](https://www.linkedin.com/in/suhelkhan781)
-- **HackerRank**: [TheComputerSK](https://www.hackerrank.com/profile/thecomputersk)
+- **LinkedIn**: [Clik Here](https://www.linkedin.com/in/devops-engineer1/)
+- **Whatsapp**: [Click Here](https://wa.me/918931004042)
+- **HackerRank**: [Click Here](https://www.hackerrank.com/profile/thecomputersk)
 
 ## 😄 Pronouns:
 - He/Him
