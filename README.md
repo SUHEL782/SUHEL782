@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- ✅ Static Header Banner (Always Loads) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original-wordmark.svg" alt="Cloud DevOps Banner" width="100%" style="border-radius:12px;"/>
+<!-- ✅ Using Kiran Rakh's working capsule-render banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=30&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
 <br/>
 
