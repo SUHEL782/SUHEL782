@@ -1,10 +1,11 @@
-<!-- README.md for Suhel Khan -->
+<!-- Professional GitHub Profile README for Suhel Khan -->
+
 <div align="center" style="background-color:#f0f9ff; padding:20px; border-radius:12px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=30&fontColor=ffffff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=35&fontColor=ffffff" alt="header"/>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#38bdf8;">Suhel Khan</span></h1>
-<h3 align="center">Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | Terraform</h3>
+<h1 align="center">🌐 Suhel Khan</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS Certified Developer Associate | Azure Certified</h3>
 
 <p align="center">
   <a href="https://workwithsuhel.netlify.app/" target="_blank">
@@ -23,31 +24,41 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=800&lines=Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+Infrastructure+as+Code;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%26+Azure+Certified+Engineer" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Infrastructure+as+Code;Continuous+Learning+%7C+Continuous+Innovation" alt="typing" />
 
 </div>
 
 ---
 
-## ✨ About Me
-- 👋 I'm **Suhel Khan**, a passionate Cloud & DevOps Engineer dedicated to building scalable, automated, and cloud-native systems.
-- 🌩️ I specialize in **AWS**, **Azure**, **Docker**, **Kubernetes**, and **Terraform** — empowering modern infrastructure automation.
-- 🎯 Currently learning advanced **GitOps**, **Serverless (AWS Lambda)**, and **Go** for cloud-native development.
-- 🚀 Actively seeking **internship opportunities** in **Cloud / DevOps Engineering** to apply and enhance my skills in real-world projects.
+## 👨‍💻 About Me
+
+I am **Suhel Khan**, a passionate **Cloud & DevOps Engineer** focused on building **scalable, secure, and automated infrastructure solutions**.  
+With a strong foundation in **AWS**, **Azure**, and **Kubernetes**, I specialize in designing CI/CD pipelines, managing cloud deployments, and implementing Infrastructure as Code (IaC) practices using **Terraform** and **Ansible**.
+
+Driven by curiosity and continuous learning, I aim to bridge the gap between development and operations by enabling faster, more reliable software delivery through automation and observability.
+
+🔹 **Current Focus:**  
+- Streamlining CI/CD pipelines using Jenkins and GitLab CI  
+- Infrastructure automation with Terraform and Ansible  
+- Container orchestration using Kubernetes and Docker  
+- Exploring Cloud-Native observability and DevSecOps best practices  
+
+🔹 **Career Goal:**  
+To contribute to a forward-thinking organization as a **DevOps or Cloud Engineer**, leveraging my technical expertise to optimize workflows, enhance reliability, and drive innovation.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
 <p align="center">
-  <b>☁️ Cloud & Orchestration:</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker" alt="cloud & k8s icons"/>
-  <br/><br/>
-  <b>⚙️ CI/CD & IaC:</b><br/>
-  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,terraform,ansible,github" alt="ci/cd iac icons"/>
-  <br/><br/>
-  <b>💻 Programming & Tools:</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,js,linux,bash" alt="langs"/>
+  <b>☁️ Cloud Platforms:</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="40" alt="cloud platforms"/><br/><br/>
+  
+  <b>⚙️ DevOps & Automation Tools:</b><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,ansible,gitlab,github,linux" height="40" alt="devops tools"/><br/><br/>
+  
+  <b>💻 Programming & Scripting:</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,bash,js" height="40" alt="programming languages"/>
 </p>
 
 ---
@@ -60,42 +71,44 @@
   </a>
   <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description |
-|--------:|:------------|
-| [**flask-cicd-aws**](https://github.com/YOUR_GITHUB_USERNAME/flask-cicd-aws) | Automated Flask app deployment using Jenkins, Ansible, Docker and EC2 (CI/CD pipeline + infra). |
-| [**k8s-helm-project**](https://github.com/YOUR_GITHUB_USERNAME/k8s-helm-project) | Multi-container app deployed on Kubernetes using Helm charts, StatefulSets, and secrets management. |
-| [**monitoring-prometheus-grafana**](https://github.com/YOUR_GITHUB_USERNAME/monitoring-prometheus-grafana) | Monitoring stack with Prometheus & Grafana, Docker metrics and application dashboards. |
-| [**aws-terraform-iac**](https://github.com/YOUR_GITHUB_USERNAME/aws-terraform-iac) | Terraform-based AWS infra: VPC, subnets, EC2, security groups and basic IaC patterns. |
+|:--------|:-------------|
+| [**Flask CI/CD on AWS**](https://github.com/YOUR_GITHUB_USERNAME/flask-cicd-aws) | Automated Flask application deployment using Jenkins, Docker, Ansible, and AWS EC2. |
+| [**Kubernetes with Helm**](https://github.com/YOUR_GITHUB_USERNAME/k8s-helm-project) | Deployed multi-container microservices using Helm, Secrets, and StatefulSets on Kubernetes. |
+| [**Monitoring with Prometheus & Grafana**](https://github.com/YOUR_GITHUB_USERNAME/monitoring-prometheus-grafana) | Implemented end-to-end monitoring and alerting for containerized workloads. |
+| [**AWS Infrastructure with Terraform**](https://github.com/YOUR_GITHUB_USERNAME/aws-terraform-iac) | Provisioned secure and scalable AWS infrastructure using Infrastructure as Code (IaC). |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://workwithsuhel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-workwithsuhel.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your-email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://wa.me/918931004042" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91%2098******?style=for-the-badge&logo=whatsapp" alt="whatsapp"/></a>
+  <a href="https://workwithsuhel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/918931004042" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ---
 
 <div align="center" style="background-color:#f0f9ff; padding:18px; border-radius:10px;">
-  <h3>✨ "Innovating for a smarter, scalable, and automated tomorrow!" 🚀</h3>
+  <h3>🚀 "Building scalable systems through automation, innovation, and continuous improvement."</h3>
   <p>— <strong>Suhel Khan</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer"/>
 </div>
