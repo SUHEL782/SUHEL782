@@ -49,7 +49,7 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45" alt="DevOps Tools"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,js" height="45" alt="Languages"/>
 </p>
 
 ---
