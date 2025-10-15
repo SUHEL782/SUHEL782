@@ -83,7 +83,7 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUHEL782&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUHEL782&theme=transparent&hide_border=true" height="165" alt="GitHub Streak"/>
+ 
 </p>
 
 ---
