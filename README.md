@@ -8,7 +8,7 @@
 <br/>
 
 <!-- 👋 Animated Typing Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=👋+Hey+there!+I'm+Suhel+Khan;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD+%7C+Linux;Automation+%7C+Scalability+%7C+Reliability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=👋+Hey+there!+I'm+SUHEL+KHAN;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD+%7C+Linux;Automation+%7C+Scalability+%7C+Reliability" alt="Typing SVG" />
 
 <br/>
 
