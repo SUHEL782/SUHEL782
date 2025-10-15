@@ -3,7 +3,8 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://i.ibb.co/sgC8fBd/cloud-devops-banner.jpg" alt="Cloud DevOps Engineer Banner" width="100%" style="border-radius:12px;"/>
+<img src="https://github.com/techwithanirudh/devops-assets/blob/main/images/cloud-devops-banner.png?raw=true" alt="Cloud DevOps Engineer Banner" width="100%" style="border-radius:12px;"/>
+
 
 <br/>
 
