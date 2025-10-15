@@ -3,7 +3,8 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://github.com/techwithanirudh/devops-assets/blob/main/images/cloud-devops-banner.png?raw=true" alt="Cloud DevOps Engineer Banner" width="100%" style="border-radius:12px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Suhel%20Khan%20|%20Cloud%20%26%20DevOps%20Engineer&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+
 
 
 
