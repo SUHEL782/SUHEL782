@@ -73,7 +73,7 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 ## 🎓 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/aws-certified-developer-associate" target="_blank">
+  <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Developer Associate"/>
   </a>
   <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
