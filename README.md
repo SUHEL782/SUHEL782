@@ -6,6 +6,7 @@
 <img src="https://github.com/techwithanirudh/devops-assets/blob/main/images/cloud-devops-banner.png?raw=true" alt="Cloud DevOps Engineer Banner" width="100%" style="border-radius:12px;"/>
 
 
+
 <br/>
 
 <!-- Animated Typing Intro -->
