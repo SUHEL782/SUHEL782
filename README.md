@@ -47,11 +47,27 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 ## ⚙️ Technical Skills
 
 <p align="center">
+  <!-- Cloud & DevOps Tools -->
+  <b>☁️ Cloud & DevOps Tools:</b><br>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45" alt="DevOps Tools"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,bash,js" height="45" alt="Languages"/>
+  <br><br>
+  
+  <!-- Programming & Scripting -->
+  <b>💻 Programming & Scripting:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45" alt="Languages"/>
 </p>
 
+---
+
+## 🌟 Soft Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem-solving-FFD700?style=for-the-badge&logo=appveyor" alt="Problem-solving"/>
+  <img src="https://img.shields.io/badge/Quick-learner-00BFFF?style=for-the-badge&logo=appveyor" alt="Quick Learner"/>
+  <img src="https://img.shields.io/badge/Adaptable-32CD32?style=for-the-badge&logo=appveyor" alt="Adaptable"/>
+  <img src="https://img.shields.io/badge/Teamwork-FF69B4?style=for-the-badge&logo=appveyor" alt="Teamwork"/>
+  <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=appveyor" alt="Communication"/>
+</p>
 ---
 
 ## 🎓 Certifications
