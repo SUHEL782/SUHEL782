@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ✅ Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=30&fontColor=ffffff" alt="Suhel Khan Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=SUHEL%20KHAN&fontSize=30&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
 <br/>
 
@@ -118,5 +118,5 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer" />
   <h3>🚀 “Empowering innovation through automation, scalability, and continuous improvement.”</h3>
-  <p><strong>— Suhel Khan</strong></p>
+  <p><strong>— SUHEL KHAN</strong></p>
 </div>
