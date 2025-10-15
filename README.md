@@ -56,16 +56,14 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 
 ## 🎓 Certifications
 
-<div align="center">
-<!-- AWS Developer Badge -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="46be7442-7ba7-4b97-9b4d-f2e20d6fb149" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<!-- Azure Fundamentals Badge -->
-<a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
-</a>
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/aws-certified-developer-associate" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Developer Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
+  </a>
+</p>
 
 ---
 
