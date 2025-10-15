@@ -1,30 +1,32 @@
-<!-- Professional GitHub Profile README for Suhel Khan -->
+<!-- Professional GitHub Profile README for Suhel Khan (Enhanced Visual Version) -->
 
-<div align="center" style="background-color:#f0f9ff; padding:20px; border-radius:12px;">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=35&fontColor=ffffff" alt="header"/>
-
-<h1 align="center">🌐 Suhel Khan</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified Developer Associate | Azure Certified</h3>
-
-<p align="center">
-  <a href="https://workwithsuhel.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-workwithsuhel.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" alt="portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Suhel_Khan-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Suhel_Khan-black?style=for-the-badge&logo=github" alt="github"/>
-  </a>
-</p>
+<!-- Hero Banner -->
+<img src="https://i.ibb.co/sgC8fBd/cloud-devops-banner.jpg" alt="Cloud DevOps Engineer Banner" width="100%" style="border-radius:12px;"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Infrastructure+as+Code;Continuous+Learning+%7C+Continuous+Innovation" alt="typing" />
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Suhel+Khan;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Automation+%7C+CI%2FCD+%7C+IaC+%7C+SRE" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://workwithsuhel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
@@ -32,33 +34,22 @@
 
 ## 👨‍💻 About Me
 
-I am **Suhel Khan**, a passionate **Cloud & DevOps Engineer** focused on building **scalable, secure, and automated infrastructure solutions**.  
-With a strong foundation in **AWS**, **Azure**, and **Kubernetes**, I specialize in designing CI/CD pipelines, managing cloud deployments, and implementing Infrastructure as Code (IaC) practices using **Terraform** and **Ansible**.
+I’m **Suhel Khan**, a results-driven **Cloud & DevOps Engineer** with hands-on experience in automating infrastructure, building CI/CD pipelines, and deploying scalable systems on AWS and Azure.
 
-Driven by curiosity and continuous learning, I aim to bridge the gap between development and operations by enabling faster, more reliable software delivery through automation and observability.
+I’m passionate about **cloud-native technologies**, **infrastructure automation**, and **continuous delivery pipelines** that improve productivity and reliability.  
+Currently, I’m expanding my expertise in **GitOps**, **Serverless Computing**, and **DevSecOps** practices.
 
-🔹 **Current Focus:**  
-- Streamlining CI/CD pipelines using Jenkins and GitLab CI  
-- Infrastructure automation with Terraform and Ansible  
-- Container orchestration using Kubernetes and Docker  
-- Exploring Cloud-Native observability and DevSecOps best practices  
-
-🔹 **Career Goal:**  
-To contribute to a forward-thinking organization as a **DevOps or Cloud Engineer**, leveraging my technical expertise to optimize workflows, enhance reliability, and drive innovation.
+**🌍 Based in:** India 🇮🇳  
+**🎯 Career Goal:** To contribute as a DevOps Engineer in designing cloud systems that are scalable, secure, and fully automated.  
 
 ---
 
-## 🧰 Technical Skills
+## ⚙️ Technical Expertise
 
 <p align="center">
-  <b>☁️ Cloud Platforms:</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="40" alt="cloud platforms"/><br/><br/>
-  
-  <b>⚙️ DevOps & Automation Tools:</b><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,ansible,gitlab,github,linux" height="40" alt="devops tools"/><br/><br/>
-  
-  <b>💻 Programming & Scripting:</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,bash,js" height="40" alt="programming languages"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45" alt="DevOps Tools"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,python,bash,js" height="45" alt="Languages"/>
 </p>
 
 ---
@@ -76,27 +67,27 @@ To contribute to a forward-thinking organization as a **DevOps or Cloud Engineer
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |:--------|:-------------|
-| [**Flask CI/CD on AWS**](https://github.com/YOUR_GITHUB_USERNAME/flask-cicd-aws) | Automated Flask application deployment using Jenkins, Docker, Ansible, and AWS EC2. |
-| [**Kubernetes with Helm**](https://github.com/YOUR_GITHUB_USERNAME/k8s-helm-project) | Deployed multi-container microservices using Helm, Secrets, and StatefulSets on Kubernetes. |
-| [**Monitoring with Prometheus & Grafana**](https://github.com/YOUR_GITHUB_USERNAME/monitoring-prometheus-grafana) | Implemented end-to-end monitoring and alerting for containerized workloads. |
-| [**AWS Infrastructure with Terraform**](https://github.com/YOUR_GITHUB_USERNAME/aws-terraform-iac) | Provisioned secure and scalable AWS infrastructure using Infrastructure as Code (IaC). |
+| [**Flask CI/CD on AWS**](https://github.com/YOUR_GITHUB_USERNAME/flask-cicd-aws) | Automated Flask deployment using Jenkins, Docker, and Ansible on AWS EC2. |
+| [**Kubernetes Helm App**](https://github.com/YOUR_GITHUB_USERNAME/k8s-helm-project) | Managed microservices with Helm charts and Kubernetes StatefulSets. |
+| [**Monitoring Stack**](https://github.com/YOUR_GITHUB_USERNAME/monitoring-prometheus-grafana) | Integrated Prometheus & Grafana for container monitoring and alerting. |
+| [**Terraform Infra Provisioning**](https://github.com/YOUR_GITHUB_USERNAME/aws-terraform-iac) | Built secure AWS VPC + EC2 infra using Terraform IaC. |
 
 ---
 
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Let’s Connect
 
 <p align="center">
   <a href="https://workwithsuhel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
@@ -107,8 +98,8 @@ To contribute to a forward-thinking organization as a **DevOps or Cloud Engineer
 
 ---
 
-<div align="center" style="background-color:#f0f9ff; padding:18px; border-radius:10px;">
-  <h3>🚀 "Building scalable systems through automation, innovation, and continuous improvement."</h3>
-  <p>— <strong>Suhel Khan</strong></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer"/>
+<div align="center">
+  <img src="https://i.ibb.co/7VhH8Tj/devops-footer.gif" width="100%" alt="DevOps Footer"/>
+  <h3>🚀 "Empowering innovation through automation, scalability, and continuous improvement."</h3>
+  <p><strong>— Suhel Khan</strong></p>
 </div>
