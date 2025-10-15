@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- ✅ Using Kiran Rakh's working capsule-render banner -->
+<!-- ✅ Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Suhel%20Khan&fontSize=30&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
 <br/>
@@ -37,58 +37,47 @@
 
 ## 👨‍💻 About Me
 
-I’m **Suhel Khan**, a passionate and detail-oriented **Cloud & DevOps Engineer** with hands-on experience in automating deployments, managing infrastructure, and optimizing CI/CD pipelines.  
-I love building **cloud-native**, **scalable**, and **secure** environments that enable faster and more reliable software delivery.
+I’m **Suhel Khan**, a passionate **Cloud & DevOps Engineer** from India 🇮🇳.  
+I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployments**. I love turning complex deployment challenges into smooth, reliable pipelines.  
 
-💡 My philosophy: *“Automation is innovation — scale smart, not hard.”*
-
-**🌍 Based in:** India 🇮🇳  
-**🎯 Goal:** To build and optimize cloud systems that ensure performance, scalability, and resilience.  
+💡 Philosophy: *“Automation is innovation — scale smart, not hard.”*  
 
 ---
 
-## ⚙️ Technical Skills 
+## ⚙️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45" alt="DevOps Tools"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="45" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45" alt="Languages"/>
 </p>
 
 ---
 
 ## 🎓 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/aws-certified-developer-associate" target="_blank">
-    <img src="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" alt="AWS Developer Associate"/>
-  </a>
-  <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
-  </a>
-</p>
+<div align="center">
+<!-- AWS Developer Badge -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="46be7442-7ba7-4b97-9b4d-f2e20d6fb149" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<!-- Azure Fundamentals Badge -->
+<a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
+</a>
+</div>
 
 ---
 
-## 🚀 Personal Projects
+## 🚀 Featured Projects
 
-### **BankApp – DevOps Pipeline**
-- **Situation:** Frequent microservice updates caused slow deployments and occasional downtime.  
-- **Task:** Automate the CI/CD pipeline to streamline deployments and improve reliability.  
-- **Action:** Built a CI/CD pipeline using **Jenkins, Docker, and Helm**; provisioned infrastructure with **Terraform**; implemented **autoscaling on AWS EKS** using Kubernetes HPA.  
-- **Result:** Reduced deployment time by **35%** and improved system reliability using **Helm rollback hooks**, **CloudWatch metrics**, and **Grafana dashboards**.
-
-### **Multi-Environment Automation – Terraform + Ansible**
-- **Situation:** Provisioning development, staging, and production environments was time-consuming and inconsistent.  
-- **Task:** Automate multi-environment provisioning and configuration management while ensuring security.  
-- **Action:** Used **Terraform** to provision **EC2, S3, and DynamoDB**; applied **Ansible** for consistent server configuration; configured IAM roles and VPC segmentation.  
-- **Result:** Reduced environment setup time by **60%** and strengthened security posture.
-
-### **MERN E-commerce – DevOps Pipeline**
-- **Situation:** The e-commerce application required scalable deployments and reliable monitoring.  
-- **Task:** Implement a CI/CD pipeline to ensure high availability.  
-- **Action:** Built a full CI/CD pipeline using **Jenkins, Docker, and Helm**; provisioned infrastructure with **Terraform**; managed configuration using **Ansible**.  
-- **Result:** Achieved **high availability** and real-time monitoring with **Fluent Bit, CloudWatch, Prometheus, and Grafana**.
+| Project | Description |
+|--------|-------------|
+| [**BankApp – DevOps Pipeline**](https://github.com/SUHEL782/BankApp) | Automated banking microservices CI/CD pipeline using **Jenkins, Docker, Helm**; Terraform infra; **AWS EKS HPA** autoscaling. Deployment time reduced **35%** and improved reliability. |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/Multi-Environment-Automation) | Provisioned dev/staging/prod environments using **Terraform** and configured servers with **Ansible**. Setup time reduced **60%**, security strengthened. |
+| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD pipeline with **Jenkins, Docker, Helm**, Terraform infra, Ansible config, monitoring via **Fluent Bit, CloudWatch, Prometheus, Grafana**. Achieved **high availability** and real-time monitoring. |
+| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/aws-terraform-iac) | Created AWS VPC, EC2, and related infrastructure using **Terraform**. Fully automated provisioning for cloud-native apps. |
+| [**Monitoring Stack**](https://github.com/SUHEL782/monitoring-prometheus-grafana) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
 
 ---
 
