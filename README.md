@@ -2,8 +2,10 @@
 
 <div align="center">
 
-<!-- ✅ Reliable Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Suhel%20Khan%20|%20Cloud%20%26%20DevOps%20Engineer&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<!-- ✅ Static Header Banner (Always Loads) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original-wordmark.svg" alt="Cloud DevOps Banner" width="100%" style="border-radius:12px;"/>
+
+<br/>
 
 <!-- 👋 Animated Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=👋+Hey+there!+I'm+Suhel+Khan;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD+%7C+Linux;Automation+%7C+Scalability+%7C+Reliability" alt="Typing SVG" />
