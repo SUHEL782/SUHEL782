@@ -92,7 +92,7 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 | [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod environments using **Terraform** and configured servers with **Ansible**. Setup time reduced **60%**, security strengthened. |
 | [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD pipeline with **Jenkins, Docker, Helm**, Terraform infra, Ansible config, monitoring via **Fluent Bit, CloudWatch, Prometheus, Grafana**. Achieved **high availability** and real-time monitoring. |
 | [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Created AWS VPC, EC2, and related infrastructure using **Terraform**. Fully automated provisioning for cloud-native apps. |
-| [**Monitoring Stack**](https://github.com/SUHEL782/monitoring-prometheus-grafana) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
+| [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
 
 ---
 
