@@ -88,10 +88,10 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 
 | Project | Description |
 |--------|-------------|
-| [**BankApp – DevOps Pipeline**](https://github.com/SUHEL782/BankApp) | Automated banking microservices CI/CD pipeline using **Jenkins, Docker, Helm**; Terraform infra; **AWS EKS HPA** autoscaling. Deployment time reduced **35%** and improved reliability. |
-| [**Multi-Environment Automation**](https://github.com/SUHEL782/Multi-Environment-Automation) | Provisioned dev/staging/prod environments using **Terraform** and configured servers with **Ansible**. Setup time reduced **60%**, security strengthened. |
+| [**BankApp – DevOps Pipeline**](http://github.com/SUHEL782/Springboot-BankApp) | Automated banking microservices CI/CD pipeline using **Jenkins, Docker, Helm**; Terraform infra; **AWS EKS HPA** autoscaling. Deployment time reduced **35%** and improved reliability. |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod environments using **Terraform** and configured servers with **Ansible**. Setup time reduced **60%**, security strengthened. |
 | [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD pipeline with **Jenkins, Docker, Helm**, Terraform infra, Ansible config, monitoring via **Fluent Bit, CloudWatch, Prometheus, Grafana**. Achieved **high availability** and real-time monitoring. |
-| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/aws-terraform-iac) | Created AWS VPC, EC2, and related infrastructure using **Terraform**. Fully automated provisioning for cloud-native apps. |
+| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Created AWS VPC, EC2, and related infrastructure using **Terraform**. Fully automated provisioning for cloud-native apps. |
 | [**Monitoring Stack**](https://github.com/SUHEL782/monitoring-prometheus-grafana) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
 
 ---
