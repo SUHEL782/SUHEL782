@@ -46,23 +46,23 @@ I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes*
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 <p align="center">
 
-<b>☁️ Cloud & DevOps Tools</b><br>
+<b> Cloud & DevOps Tools</b><br>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45"/>
 
 <br/><br/>
 
-<b>💻 Programming & Scripting</b><br>
+<b> Programming & Scripting</b><br>
 <img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45"/>
 
 </p>
 
 ---
 
-## 🌟 Soft Skills
+## Soft Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problem-solving-FFD700?style=for-the-badge" />
@@ -73,6 +73,28 @@ I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes*
 </p>
 
 ---
+##  Featured Projects | DevOps & Cloud
+
+| Project | Description |
+|--------|-------------|
+| [**BankApp – DevOps Pipeline**](http://github.com/SUHEL782/Springboot-BankApp) | Automated CI/CD pipeline using Jenkins, Docker, Helm, Terraform, and AWS EKS with HPA. Reduced deployment time **35%**. |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod using **Terraform** and automated configuration with **Ansible**. Reduced setup time **60%**. |
+| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD with Kubernetes, monitoring using **CloudWatch, Prometheus, Grafana**, achieving high availability. |
+| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, subnets, routing, and security groups using Terraform for cloud-native deployment. |
+| [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented a production-ready monitoring stack using **Prometheus + Grafana** for observability & alerting. |
+
+---
+
+##  Featured Projects | AI/ML
+
+| Project | Description |
+|--------|-------------|
+| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice.git) | Built scalable ML inference microservice with FastAPI, preprocessing, secure IAM, and Docker deployment. |
+| [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classifier.git) | NLP model using BoW/TF-IDF with **92% accuracy**, packaged with Docker and CI/CD pipeline. |
+| [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | Automated ML workflow including data cleaning, feature engineering, model training & evaluation. |
+
+---
+
 
 ## 🎓 Certifications
 
@@ -87,29 +109,7 @@ I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes*
 
 ---
 
-## 🚀 Featured Projects | DevOps & Cloud
-
-| Project | Description |
-|--------|-------------|
-| [**BankApp – DevOps Pipeline**](http://github.com/SUHEL782/Springboot-BankApp) | Automated CI/CD pipeline using Jenkins, Docker, Helm, Terraform, and AWS EKS with HPA. Reduced deployment time **35%**. |
-| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod using **Terraform** and automated configuration with **Ansible**. Reduced setup time **60%**. |
-| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD with Kubernetes, monitoring using **CloudWatch, Prometheus, Grafana**, achieving high availability. |
-| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, subnets, routing, and security groups using Terraform for cloud-native deployment. |
-| [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented a production-ready monitoring stack using **Prometheus + Grafana** for observability & alerting. |
-
----
-
-## 🚀 Featured Projects | AI/ML
-
-| Project | Description |
-|--------|-------------|
-| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice.git) | Built scalable ML inference microservice with FastAPI, preprocessing, secure IAM, and Docker deployment. |
-| [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classifier.git) | NLP model using BoW/TF-IDF with **92% accuracy**, packaged with Docker and CI/CD pipeline. |
-| [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | Automated ML workflow including data cleaning, feature engineering, model training & evaluation. |
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 <p align="center">
   <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
@@ -122,6 +122,6 @@ I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer" />
-  <h3>🚀 “Empowering innovation through automation, scalability, and continuous improvement.”</h3>
+  <h3> “Empowering innovation through automation, scalability, and continuous improvement.”</h3>
   <p><strong>— SUHEL KHAN</strong></p>
 </div>
