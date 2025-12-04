@@ -8,7 +8,7 @@
 <br/>
 
 <!-- 👋 Name + Scroll Message -->
-<h2 align="center">👋 Hi, I'm <b>Suhel Khan</b> — scroll down to explore my projects ⬇️</h2>
+<h2 align="center">👋 Hi, I'm <b>Suhel Khan</b> —Please scroll down to explore my projects ⬇️</h2>
 
 <br/>
 
