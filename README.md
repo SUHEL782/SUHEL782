@@ -12,10 +12,8 @@
 
 <br/>
 
-
 <!-- 👋 Animated Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&vCenter=true&width=850&lines=👋+Hey+there!+I'm+SUHEL+KHAN;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD+%7C+Linux;Automation+%7C+Scalability+%7C+Reliability" alt="Typing SVG" />
-
 
 <br/>
 
@@ -30,9 +28,6 @@
   <a href="mailto:workwithsuhel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/SUHEL782" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://wa.me/918931004042" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
@@ -45,23 +40,24 @@
 ## 👨‍💻 About Me
 
 I’m **Suhel Khan**, a passionate **Cloud & DevOps Engineer** from India 🇮🇳.  
-I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployments**. I love turning complex deployment challenges into smooth, reliable pipelines.  
+I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes**, and building highly scalable deployment workflows.
 
-💡 Philosophy: *“Automation is innovation — scale smart, not hard.”*  
+💡 Philosophy: *“Automation leads to innovation — scale smart, not hard.”*
 
 ---
 
 ## ⚙️ Technical Skills
 
 <p align="center">
-  <!-- Cloud & DevOps Tools -->
-  <b>☁️ Cloud & DevOps Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45" alt="DevOps Tools"/>
-  <br><br>
-  
-  <!-- Programming & Scripting -->
-  <b>💻 Programming & Scripting:</b><br>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45" alt="Languages"/>
+
+<b>☁️ Cloud & DevOps Tools</b><br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux" height="45"/>
+
+<br/><br/>
+
+<b>💻 Programming & Scripting</b><br>
+<img src="https://skillicons.dev/icons?i=python,bash,js,java" height="45"/>
+
 </p>
 
 ---
@@ -69,63 +65,57 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 ## 🌟 Soft Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem-solving-FFD700?style=for-the-badge&logo=appveyor" alt="Problem-solving"/>
-  <img src="https://img.shields.io/badge/Quick-learner-00BFFF?style=for-the-badge&logo=appveyor" alt="Quick Learner"/>
-  <img src="https://img.shields.io/badge/Adaptable-32CD32?style=for-the-badge&logo=appveyor" alt="Adaptable"/>
-  <img src="https://img.shields.io/badge/Teamwork-FF69B4?style=for-the-badge&logo=appveyor" alt="Teamwork"/>
-  <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=appveyor" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Problem-solving-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quick-learner-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptable-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge" />
 </p>
+
 ---
 
 ## 🎓 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Developer Associate"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects|| DevOps |Cloud
+## 🚀 Featured Projects | DevOps & Cloud
 
 | Project | Description |
 |--------|-------------|
-| [**BankApp – DevOps Pipeline**](http://github.com/SUHEL782/Springboot-BankApp) | Automated banking microservices CI/CD pipeline using **Jenkins, Docker, Helm**; Terraform infra; **AWS EKS HPA** autoscaling. Deployment time reduced **35%** and improved reliability. |
-| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod environments using **Terraform** and configured servers with **Ansible**. Setup time reduced **60%**, security strengthened. |
-| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD pipeline with **Jenkins, Docker, Helm**, Terraform infra, Ansible config, monitoring via **Fluent Bit, CloudWatch, Prometheus, Grafana**. Achieved **high availability** and real-time monitoring. |
-| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Created AWS VPC, EC2, and related infrastructure using **Terraform**. Fully automated provisioning for cloud-native apps. |
-| [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
+| [**BankApp – DevOps Pipeline**](http://github.com/SUHEL782/Springboot-BankApp) | Automated CI/CD pipeline using Jenkins, Docker, Helm, Terraform, and AWS EKS with HPA. Reduced deployment time **35%**. |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Provisioned dev/staging/prod using **Terraform** and automated configuration with **Ansible**. Reduced setup time **60%**. |
+| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Full CI/CD with Kubernetes, monitoring using **CloudWatch, Prometheus, Grafana**, achieving high availability. |
+| [**Terraform Infra Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, subnets, routing, and security groups using Terraform for cloud-native deployment. |
+| [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented a production-ready monitoring stack using **Prometheus + Grafana** for observability & alerting. |
 
 ---
-## 🚀 Featured Projects|| AI/ML
+
+## 🚀 Featured Projects | AI/ML
 
 | Project | Description |
 |--------|-------------|
-| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-fastapi-microservice) | Built a scalable **ML inference microservice** using FastAPI with preprocessing, model loading, and REST prediction endpoints. Containerized using **Docker** and implemented secure IAM & network controls for reliable deployment. |
-| [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classification-scikit) | Developed an end-to-end NLP pipeline using **BoW & TF-IDF**, trained multi-class models, and achieved **92% accuracy** with optimized features. Packaged with **Docker** and integrated CI/CD via GitLab. |
-| [**AI Analytics Pipeline – Python & Pandas**](https://github.com/SUHEL782/ai-analytics-pipeline) | Designed a complete ML workflow including **data cleaning, feature engineering, model training, and evaluation**. Automated the pipeline as a microservice to deliver real-time analytics. |
-
-## 📊 GitHub Insights
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SUHEL782&show_icons=true&theme=transparent&hide_border=true" height="165" />
-
-</p>
-
+| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-fastapi-microservice) | Built scalable ML inference microservice with FastAPI, preprocessing, secure IAM, and Docker deployment. |
+| [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classification-scikit) | NLP model using BoW/TF-IDF with **92% accuracy**, packaged with Docker and CI/CD pipeline. |
+| [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | Automated ML workflow including data cleaning, feature engineering, model training & evaluation. |
 
 ---
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:suhelkhan155@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/918931004042" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:suhelkhan155@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/918931004042" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
