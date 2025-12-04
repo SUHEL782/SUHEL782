@@ -84,7 +84,7 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects|| DevOps |Cloud
 
 | Project | Description |
 |--------|-------------|
@@ -95,6 +95,13 @@ I specialize in **automation, CI/CD, cloud infrastructure, and scalable deployme
 | [**Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Implemented **Prometheus & Grafana** for container and app monitoring. Enhanced observability and alerting for production systems. |
 
 ---
+## 🚀 Featured Projects|| AI/ML
+
+| Project | Description |
+|--------|-------------|
+| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-fastapi-microservice) | Built a scalable **ML inference microservice** using FastAPI with preprocessing, model loading, and REST prediction endpoints. Containerized using **Docker** and implemented secure IAM & network controls for reliable deployment. |
+| [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classification-scikit) | Developed an end-to-end NLP pipeline using **BoW & TF-IDF**, trained multi-class models, and achieved **92% accuracy** with optimized features. Packaged with **Docker** and integrated CI/CD via GitLab. |
+| [**AI Analytics Pipeline – Python & Pandas**](https://github.com/SUHEL782/ai-analytics-pipeline) | Designed a complete ML workflow including **data cleaning, feature engineering, model training, and evaluation**. Automated the pipeline as a microservice to deliver real-time analytics. |
 
 ## 📊 GitHub Insights
 
