@@ -103,7 +103,7 @@ I specialize in **automation, CI/CD pipelines, cloud infrastructure, Kubernetes*
 
 | Project | Description |
 |--------|-------------|
-| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-fastapi-microservice) | Built scalable ML inference microservice with FastAPI, preprocessing, secure IAM, and Docker deployment. |
+| [**AIML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice.git) | Built scalable ML inference microservice with FastAPI, preprocessing, secure IAM, and Docker deployment. |
 | [**Text Classification Model – Scikit-learn**](https://github.com/SUHEL782/text-classification-scikit) | NLP model using BoW/TF-IDF with **92% accuracy**, packaged with Docker and CI/CD pipeline. |
 | [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | Automated ML workflow including data cleaning, feature engineering, model training & evaluation. |
 
