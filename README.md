@@ -7,6 +7,12 @@
 
 <br/>
 
+<!-- 👋 Name + Scroll Message -->
+<h2 align="center">👋 Hi, I'm <b>Suhel Khan</b> — scroll down to explore my projects ⬇️</h2>
+
+<br/>
+
+
 <!-- 👋 Animated Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&vCenter=true&width=850&lines=👋+Hey+there!+I'm+SUHEL+KHAN;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD+%7C+Linux;Automation+%7C+Scalability+%7C+Reliability" alt="Typing SVG" />
 
