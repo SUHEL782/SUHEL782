@@ -16,7 +16,7 @@ Cloud • DevOps • AI/ML Engineer<br/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AI%2FML+%26+MLOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+FastAPI;Building+Scalable+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&pause=1000&color=38BDF8&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AI%2FML+%26+MLOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+FastAPI;Building+Scalable+%26+Intelligent+Systems" />
 
 <br/><br/>
 
