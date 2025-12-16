@@ -58,7 +58,7 @@ I specialize in:
 
 ###  Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,gitlab,github,linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,gitlab,github,linux" height="45"/>
 </p>
 
 ###  AI / Machine Learning & MLOps
