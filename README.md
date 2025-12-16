@@ -8,8 +8,10 @@
 <br/>
 
 <h2 align="center">
-👋 Hi, I'm <b>Suhel Khan</b><br/>
-Cloud • DevOps • AI/ML Engineer
+ Hi, I'm <b>Suhel Khan</b><br/>
+Cloud • DevOps • AI/ML Engineer<br/>
+⬇️ Please scroll down to explore my projects
+
 </h2>
 
 <br/>
@@ -72,9 +74,18 @@ I specialize in:
 - MLOps: Dockerized models, CI/CD pipelines for ML  
 
 ---
-<p align="center"> <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge" /> <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Debugging-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" /> <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge" /> </p>
 
+##  Soft Skills
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge" />
+</p>
+
+> Proven ability to troubleshoot production issues, debug CI/CD pipelines, and collaborate effectively across cross-functional teams.
 
 ---
 
@@ -100,7 +111,7 @@ I specialize in:
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
@@ -113,7 +124,7 @@ I specialize in:
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 <p align="center">
   <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank">
@@ -122,7 +133,7 @@ I specialize in:
   <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:suhelkhan155@gmail.com">
+  <a href="mailto:workwithsuhel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
