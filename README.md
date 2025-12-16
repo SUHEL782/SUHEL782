@@ -30,6 +30,9 @@ Cloud • DevOps • AI/ML Engineer<br/>
   <a href="https://wa.me/918931004042" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20DSA%20%26%20SQL-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
 </p>
 
 </div>
