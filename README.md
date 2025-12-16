@@ -46,22 +46,22 @@ Cloud • DevOps • AI/ML Engineer
 I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳.
 
 I specialize in:
-- ☁️ **Cloud Infrastructure** (AWS, Azure, GCP)
-- ⚙️ **DevOps & Automation** (CI/CD, Docker, Kubernetes, Terraform)
-- 🤖 **AI/ML Systems** (Model building, APIs, MLOps foundations)
+-  **Cloud Infrastructure** (AWS, Azure, GCP)
+-  **DevOps & Automation** (CI/CD, Docker, Kubernetes, Terraform)
+-  **AI/ML Systems** (Model building, APIs, MLOps foundations)
 
 💡 *“Automation + Intelligence = Scalable Systems.”*
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,gitlab,github,linux" height="45"/>
 </p>
 
-### 🤖 AI / Machine Learning & MLOps
+###  AI / Machine Learning & MLOps
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
 </p>
@@ -73,7 +73,7 @@ I specialize in:
 
 ---
 
-## 🚀 Featured Projects | Cloud & DevOps
+##  Featured Projects | Cloud & DevOps
 
 | Project | Description |
 |------|------------|
@@ -85,7 +85,7 @@ I specialize in:
 
 ---
 
-## 🤖 Featured Projects | AI / ML
+##  Featured Projects | AI / ML
 
 | Project | Description |
 |------|------------|
