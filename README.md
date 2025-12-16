@@ -7,12 +7,12 @@
 
 <br/>
 
-<h2 align="center">
+<h3 align="center">
  Hi, I'm <b>Suhel Khan</b><br/>
 Cloud • DevOps • AI/ML Engineer<br/>
 ⬇️ Please scroll down to explore my projects
 
-</h2>
+</h3>
 
 <br/>
 
