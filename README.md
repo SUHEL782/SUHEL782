@@ -72,6 +72,19 @@ I specialize in:
 - MLOps: Dockerized models, CI/CD pipelines for ML  
 
 ---
+<p align="center"> <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge" /> <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Debugging-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" /> <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge" /> </p>
+
+What I bring to teams:
+
+Strong problem-solving mindset for production issues
+
+Hands-on troubleshooting & debugging across cloud, containers, and pipelines
+
+Effective collaboration with developers, QA, and platform teams
+
+Clear communication during incidents, reviews, and planning
+
+---
 
 ##  Featured Projects | Cloud & DevOps
 
