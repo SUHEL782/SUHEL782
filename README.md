@@ -76,7 +76,7 @@ I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/C
   <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge" />
 </p>
-> Proven ability to troubleshoot production issues, debug CI/CD pipelines, and collaborate effectively across cross-functional teams.
+>> Proven ability to troubleshoot production issues, debug CI/CD pipelines, and collaborate effectively across cross-functional teams.
 
 ---
 
