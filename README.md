@@ -76,7 +76,30 @@ I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/C
 | [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline: data cleaning → feature engineering → training → evaluation |
 
 ---
+---
 
+## 🛣️ Career Path
+
+2021  
+🧑‍💻 Linux & Git  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+
+2022  
+⚙️ DevOps Engineer  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+
+2023  
+☁️ Cloud & Infrastructure Automation  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+
+2024  
+🤖 AI/ML & MLOps Engineer  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+
+Present  
+🚀 Cloud • DevOps • AI Systems
+
+---
 ## Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
