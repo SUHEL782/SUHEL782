@@ -1,40 +1,3 @@
-<!-- Professional GitHub Profile README for Suhel Khan -->
-
-<div align="center">
-
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=SUHEL%20KHAN&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
-
-<h3 align="center">
- Hi, I'm <b>Suhel Khan</b><br/>
-Cloud • DevOps • AI/ML Engineer<br/>
-⬇️ Scroll down to explore my projects
-</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=800&color=38BDF8&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AI%2FML+%26+MLOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+FastAPI;Building+Scalable+%26+Intelligent+Systems" />
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://leetcode.com/u/iF2qKmHzCO/" target="_blank">
-    <img src="https://img.shields.io/badge/Python%20DSA%20%26%20SQL-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devops-engineer1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:workwithsuhel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/918931004042" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -42,6 +5,20 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳.
 I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/CD, Docker, Kubernetes, Terraform)**, and **AI/ML Systems (Model building, APIs, MLOps foundations)**.  
 
 💡 *“Automation + Intelligence = Scalable Systems.”*
+
+---
+
+## 🛣️ Career Path
+
+🧑‍💻 **Linux & Git**  
+⬇️  
+⚙️ **DevOps Engineer**  
+⬇️  
+☁️ **Cloud & Infrastructure Automation**  
+⬇️  
+🤖 **AI/ML & MLOps Engineer**  
+⬇️  
+🚀 **Cloud • DevOps • AI Systems (Present)**
 
 ---
 
