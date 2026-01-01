@@ -8,20 +8,6 @@ I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/C
 
 ---
 
-## 🛣️ Career Path
-
-🧑‍💻 **Linux & Git**  
-⬇️  
-⚙️ **DevOps Engineer**  
-⬇️  
-☁️ **Cloud & Infrastructure Automation**  
-⬇️  
-🤖 **AI/ML & MLOps Engineer**  
-⬇️  
-🚀 **Cloud • DevOps • AI Systems (Present)**
-
----
-
 ## Technical Skills
 
 ### Cloud & DevOps
