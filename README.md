@@ -6,11 +6,11 @@
 
   <h3 align="center">
     Hi, I'm <b>Suhel Khan</b><br/>
-    Cloud • DevOps • AI/ML Engineer<br/>
+    Cloud • DevOps • AI/ML • Data Analytics Engineer<br/>
     ⬇️ Scroll down to explore my projects
   </h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=800&color=38BDF8&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AI%2FML+%26+MLOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+FastAPI;Building+Scalable+%26+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=800&color=38BDF8&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AI%2FML+%26+MLOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+FastAPI;Data+Analytics+%7C+Excel+%7C+SQL+%7C+Python;Building+Scalable+%26+Intelligent+Systems" />
 
   <!-- Social Links -->
   <p align="center">
@@ -36,13 +36,15 @@
 
 ## 👨‍💻 About Me
 
-I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/CD, Docker, Kubernetes, Terraform)**, and **AI/ML Systems (Model building, APIs, MLOps foundations)**.  
+I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/CD, Docker, Kubernetes, Terraform)**, and **AI/ML Systems (Model building, APIs, MLOps foundations)**.
+
+Additionally, I work with **Data Analytics fundamentals**, including **Excel reporting, SQL analysis, and Python-based data cleaning**, to derive actionable business insights.
 
 💡 *“Automation + Intelligence = Scalable Systems.”*
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### Cloud & DevOps
 <p align="center">
@@ -62,10 +64,11 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. 
 ### Programming & Data Fundamentals
 - Python: DSA, scripting, automation  
 - SQL: Queries, joins, aggregations, optimization  
+- Data Analytics: Excel (Pivot Tables, Dashboards), SQL, Pandas  
 
 ---
 
-## Soft Skills
+## 🤝 Soft Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge" />
@@ -78,7 +81,7 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. 
 
 ---
 
-## Featured Projects | Cloud & DevOps
+## 🚀 Featured Projects | Cloud & DevOps
 
 | Project | Description |
 |------|------------|
@@ -90,7 +93,7 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. 
 
 ---
 
-## Featured Projects | AI / ML
+## 🤖 Featured Projects | AI / ML
 
 | Project | Description |
 |------|------------|
@@ -99,24 +102,24 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. 
 | [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline: data cleaning → feature engineering → training → evaluation |
 
 ---
-## Featured Projects | Data Analytics
+
+## 📊 Featured Projects | Data Analytics
 
 | Project | Description |
 |------|------------|
 | [**Sales Data Analysis (Excel + SQL)**](https://github.com/SUHEL782/sales-data-analysis-excel-sql) | Analyzed sales data to identify top regions, products, and monthly trends using SQL and Excel |
 | [**Customer Data Cleaning & Analysis (Python)**](https://github.com/SUHEL782/customer-data-cleaning-python) | Cleaned raw customer data using Pandas, handled missing values, and generated insights |
 | [**Excel Sales Analytics Dashboard**](https://github.com/SUHEL782/excel-sales-analytics-dashboard) | Built an interactive Excel dashboard with KPIs, trends, and category-wise analysis |
+
 ---
-## Certifications
+
+## 📜 Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
-  <a href="https://www.udemy.com/certificate/UC-XXXXXXX/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-AI%2FML%20Certificate-FF0000?style=for-the-badge&logo=udemy&logoColor=white"/>
   </a>
 </p>
 
