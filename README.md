@@ -34,13 +34,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. I specialize in **Cloud Infrastructure (AWS, GCP)**, **DevOps & Automation (CI/CD, Docker, Kubernetes, Terraform)**, and **AI/ML Systems (Model building, APIs, MLOps foundations)**.
 
 Additionally, I work with **Data Analytics fundamentals**, including **Excel reporting, SQL analysis, and Python-based data cleaning**, to derive actionable business insights.
 
-💡 *“Automation + Intelligence = Scalable Systems.”*
+ *“Automation + Intelligence = Scalable Systems.”*
 
 ---
 
@@ -81,7 +81,7 @@ Additionally, I work with **Data Analytics fundamentals**, including **Excel rep
 
 ---
 
-## 🚀 Featured Projects | Cloud & DevOps
+##  Featured Projects | Cloud & DevOps
 
 | Project | Description |
 |------|------------|
@@ -93,7 +93,7 @@ Additionally, I work with **Data Analytics fundamentals**, including **Excel rep
 
 ---
 
-## 🤖 Featured Projects | AI / ML
+##  Featured Projects | AI / ML
 
 | Project | Description |
 |------|------------|
@@ -113,7 +113,7 @@ Additionally, I work with **Data Analytics fundamentals**, including **Excel rep
 
 ---
 
-## 📜 Certifications
+##  Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
