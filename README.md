@@ -99,7 +99,14 @@ I’m **Suhel Khan**, a **Cloud, DevOps & AI/ML Engineer** from India 🇮🇳. 
 | [**AI Analytics Pipeline – Python**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline: data cleaning → feature engineering → training → evaluation |
 
 ---
+## Featured Projects | Data Analytics
 
+| Project | Description |
+|------|------------|
+| [**Sales Data Analysis (Excel + SQL)**](https://github.com/SUHEL782/sales-data-analysis-excel-sql) | Analyzed sales data to identify top regions, products, and monthly trends using SQL and Excel |
+| [**Customer Data Cleaning & Analysis (Python)**](https://github.com/SUHEL782/customer-data-cleaning-python) | Cleaned raw customer data using Pandas, handled missing values, and generated insights |
+| [**Excel Sales Analytics Dashboard**](https://github.com/SUHEL782/excel-sales-analytics-dashboard) | Built an interactive Excel dashboard with KPIs, trends, and category-wise analysis |
+---
 ## Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
