@@ -96,11 +96,11 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 | Project | Description |
 |------|------------|
-| **BankApp – DevOps CI/CD Pipeline** | End-to-end CI/CD using Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
-| **Multi-Environment Automation** | Automated dev/stage/prod using Terraform & Ansible (**60% infra setup reduction**) |
-| **MERN E-commerce – DevOps Pipeline** | Kubernetes-based deployment with CloudWatch, Prometheus & Grafana monitoring |
-| **Terraform Infrastructure Provisioning** | Automated AWS VPC, EC2, subnets, routing & security groups |
-| **Production Monitoring Stack** | Prometheus + Grafana observability with alerting |
+| [**BankApp – DevOps CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp) | End-to-end CI/CD using Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Automated dev/stage/prod using Terraform & Ansible (**60% infra setup reduction**) |
+| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes-based deployment with CloudWatch, Prometheus & Grafana monitoring |
+| [**Terraform Infrastructure Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, subnets, routing & security groups |
+| [**Production Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Prometheus + Grafana observability with alerting |
 
 ---
 
@@ -108,9 +108,9 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 | Project | Description |
 |------|------------|
-| **AI/ML Microservice – FastAPI & Docker** | Scalable ML inference service with Dockerized deployment |
-| **Text Classification Model** | NLP model using BoW & TF-IDF with **92% accuracy**, CI/CD enabled |
-| **AI Analytics Pipeline** | End-to-end ML pipeline from data cleaning to evaluation |
+| [**AI/ML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice) | Scalable ML inference service with Dockerized deployment |
+| [**Text Classification Model**](https://github.com/SUHEL782/text-classifier) | NLP model using BoW & TF-IDF with **92% accuracy**, CI/CD enabled |
+| [**AI Analytics Pipeline**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline from data cleaning to evaluation |
 
 ---
 
@@ -118,9 +118,9 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 | Project | Description |
 |------|------------|
-| **Sales Data Analysis (Excel + SQL)** | Identified top regions, products, and monthly trends |
-| **Customer Data Cleaning & Analysis** | Data cleaning, missing value handling, insights with Pandas |
-| **Excel Sales Analytics Dashboard** | Interactive dashboard with KPIs and trends |
+| [**Sales Data Analysis (Excel + SQL)**](https://github.com/SUHEL782/sales-data-analysis-excel-sql) | Identified top regions, products, and monthly trends |
+| [**Customer Data Cleaning & Analysis**](https://github.com/SUHEL782/customer-data-cleaning-python) | Data cleaning, missing value handling, insights with Pandas |
+| [**Excel Sales Analytics Dashboard**](https://github.com/SUHEL782/excel-sales-analytics-dashboard) | Interactive dashboard with KPIs and trends |
 
 ---
 
