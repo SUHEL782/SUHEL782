@@ -26,7 +26,7 @@
   </p>
 
   <p align="center">
-    <sub>Built with FastAPI • Docker • CI/CD • Cloud-native deployment</sub>
+    <sub>Built with FastAPI • Docker • Next.js • CI/CD • AWS </sub>
   </p>
 
   <!-- Social Links -->
