@@ -6,7 +6,7 @@
 
   <h3 align="center">
     Hi, I'm <b>Suhel Khan</b><br/>
-    Cloud • DevOps • AI/ML • Data Analytics Engineer<br/>
+    Cloud • DevOps • AI/ML Engineer<br/>
     ⬇️ Scroll down to explore my projects
   </h3>
 
