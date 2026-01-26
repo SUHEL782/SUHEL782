@@ -32,7 +32,7 @@
   <!-- Social Links -->
   <p align="center">
     <a href="https://leetcode.com/u/iF2qKmHzCO/" target="_blank">
-      <img src="https://img.shields.io/badge/DSA%20%26%20SQL-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Py with DSA%20%26%20SQL-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
     </a>
     <a href="https://my-portfolio-app-theta-one.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white"/>
