@@ -96,7 +96,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 | Project | Description |
 |------|------------|
-| [**BankApp – DevOps CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp) | End-to-end CI/CD using Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
+| [**BankApp – DevOps CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | End-to-end CI/CD using Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
 | [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Automated dev/stage/prod using Terraform & Ansible (**60% infra setup reduction**) |
 | [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes-based deployment with CloudWatch, Prometheus & Grafana monitoring |
 | [**Terraform Infrastructure Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, subnets, routing & security groups |
