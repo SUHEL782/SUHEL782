@@ -4,6 +4,13 @@
   <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=SUHEL%20KHAN&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
+  <!-- DevOps Community Badge -->
+  <p align="center">
+    <a href="https://github.com/SUHEL782/devops-practice-hub-with-projects" target="_blank">
+      <img src="https://img.shields.io/badge/Join-DevOps%20Practice%20Community-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
   <h3 align="center">
     Hi, I'm <b>Suhel Khan</b><br/>
     Cloud • DevOps • AI/ML Engineer<br/>
@@ -52,7 +59,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.
 
@@ -63,9 +70,9 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-###  Cloud & DevOps
+### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,github,linux" height="40"/>
 </p>
@@ -77,7 +84,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-###  AI / ML & MLOps (Foundations)
+### AI / ML & MLOps (Foundations)
 - Machine Learning: Scikit-learn, Pandas, NumPy  
 - NLP: TF-IDF, Bag of Words  
 - APIs: FastAPI-based ML inference services  
@@ -85,14 +92,14 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-###  Programming & Data
+### Programming & Data
 - Python: automation, scripting, backend services  
 - SQL: joins, aggregations, optimization  
 - Excel: dashboards, pivot tables, reporting  
 
 ---
 
-##  Featured Projects | Cloud & DevOps
+## Featured Projects | Cloud & DevOps
 
 | Project | Description |
 |------|------------|
@@ -104,7 +111,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-##  Featured Projects | AI / ML
+## Featured Projects | AI / ML
 
 | Project | Description |
 |------|------------|
@@ -114,7 +121,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-##  Featured Projects | Data Analytics
+## Featured Projects | Data Analytics
 
 | Project | Description |
 |------|------------|
@@ -124,7 +131,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-##  Soft Skills
+## Soft Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge"/>
@@ -135,7 +142,7 @@ Alongside DevOps, I work with **AI/ML foundations** and **data analytics** to bu
 
 ---
 
-##  Certifications
+## Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
