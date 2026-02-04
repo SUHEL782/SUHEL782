@@ -14,12 +14,12 @@
 
   <h3 align="center">
     Hi, I'm <b>Suhel Khan</b><br/>
-    Cloud • DevOps • AI/ML Engineer<br/>
+    Cloud • DevOps • Data Engineer<br/>
     ⬇️ Explore my projects below
   </h3>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+Monitoring;Production-Ready+Cloud+Systems" />
 
   <!-- LIVE SAAS PRODUCT -->
   <p align="center">
@@ -30,11 +30,11 @@
 
   <p align="center">
     <b>ATS Resume Checker – Production SaaS Platform</b><br/>
-    Resume analysis • Job matching • ATS optimization feedback
+    Cloud-native • CI/CD • Scalable Infrastructure
   </p>
 
   <p align="center">
-    <sub>Built with FastAPI • Docker • Next.js • CI/CD • AWS</sub>
+    <sub>FastAPI • Docker • AWS • GitHub Actions • CI/CD</sub>
   </p>
 
   <!-- Social Links -->
@@ -59,23 +59,22 @@
 
 ## About Me
 
-I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.
+I’m **Suhel Khan**, a **Cloud, DevOps & Data Engineer** from India 🇮🇳.
 
 I design and deploy:
-- **Scalable cloud infrastructure**
+- **Scalable AWS cloud infrastructure**
 - **CI/CD automation pipelines**
 - **Containerized applications on Kubernetes**
-- **Production-ready SaaS platforms**
+- **Production-grade SaaS & backend systems**
+- **Cloud-backed data processing workflows**
 
-Alongside DevOps, I work with **AI/ML foundations**, building API-based inference services and MLOps workflows.
-
-> **Automation + Reliability + Scale = Real Engineering**
+> **Automation + Reliability + Scalability = Real Engineering**
 
 ---
 
 ## Technical Skills
 
-###  Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,github,linux" height="42"/>
 </p>
@@ -88,55 +87,43 @@ Alongside DevOps, I work with **AI/ML foundations**, building API-based inferenc
 
 ---
 
-###  AI / ML Foundations & MLOps
-- Machine Learning: Scikit-learn, Pandas, NumPy
-- NLP: TF-IDF, Bag of Words
-- Backend APIs: FastAPI-based ML inference services
-- MLOps: Dockerized models, CI/CD-driven deployments
-
----
-
-###  Programming
-- Python (automation, backend services, scripting)
+### 📊 Data Engineering Foundations
 - SQL (joins, aggregations, query optimization)
+- Python for automation & data pipelines
+- AWS S3-based storage & backend data handling
+- Cloud-ready data infrastructure
 
 ---
 
-##  Featured Projects | Cloud & DevOps
+### 💻 Programming
+- Python (automation, backend services, scripting)
+- SQL (analytics & performance tuning)
+
+---
+
+## 🚀 Featured Projects | Cloud & DevOps
 
 | Project | Description |
 |------|------------|
 | [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes deployment with Prometheus & Grafana monitoring |
-| [**BankApp – CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
-| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Dev/Stage/Prod automation using Terraform & Ansible (**60% infra setup reduction**) |
+| [**BankApp – CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS with HPA |
+| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Dev/Stage/Prod automation using Terraform & Ansible |
 | [**Terraform Infrastructure Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, networking & security |
 | [**Production Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Prometheus + Grafana observability with alerting |
 
 ---
 
-## 🤖 Featured Projects | AI / ML
+## 🌐 Production SaaS
 
 | Project | Description |
 |------|------------|
-| [**AI/ML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice) | Scalable ML inference service |
-| [**Text Classification Model**](https://github.com/SUHEL782/text-classifier) | NLP model using TF-IDF & BoW with **92% accuracy**, CI/CD enabled |
-| [**AI Analytics Pipeline**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline from preprocessing to evaluation |
+| **ATS Resume Checker (Live)** | Cloud-native SaaS with CI/CD & AWS infrastructure |
+
+👉 https://ats_s.in
 
 ---
 
-##  Soft Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Debugging-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-##  Certifications
+## 🏅 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url">
