@@ -21,9 +21,9 @@
     <img src="https://img.shields.io/badge/LIVE%20SaaS-ATS%20Resume%20Checker-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
+# Center alignment 
 <p align="center">
-  <b>ATS Resume Checker – Production SaaS Platform</b><br/>
+  <b>ATS Resume Checker – Production SaaS Platform</b><br/> 
   Resume analysis • Job matching • ATS optimization feedback<br/>
   <sub>Built with FastAPI • Docker • Next.js • CI/CD • AWS</sub>
 </p>
