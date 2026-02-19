@@ -11,7 +11,7 @@
 <h3 align="center">
   Hi, I'm <b>Suhel Khan</b><br/>
   Cloud • DevOps • AI/ML Engineer<br/>
-  ⬇️ Explore my projects below
+  ⬇️ Explore my projects below --
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
