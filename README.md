@@ -49,7 +49,7 @@
 
 ## About Me
 
-I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.  
+I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.. 
 I design and deploy:
 
 - **Scalable cloud infrastructure**
