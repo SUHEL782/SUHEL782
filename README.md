@@ -107,7 +107,7 @@ Alongside DevOps, I work with **AI/ML foundations**, building API-based inferenc
 
 ---
 
-## 🤖 Featured Projects | AI / ML
+##  Featured Projects | AI / ML
 
 | Project | Description |
 |-------|------------|
