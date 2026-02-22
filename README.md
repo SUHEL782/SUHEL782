@@ -14,6 +14,15 @@
   ⬇️ Explore my projects below
 </h3>
 
+<p align="center">
+  <a href="https://github.com/SUHEL782?tab=repositories&q=devops">
+    <img src="https://img.shields.io/badge/Explore-DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge&logo=cloud&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SUHEL782?tab=repositories&q=ai">
+    <img src="https://img.shields.io/badge/Explore-AI%2FML-6366f1?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
 
 <p align="center">
