@@ -14,12 +14,13 @@
   ⬇️ Explore my projects below
 </h3>
 
+<!-- ✅ Anchor Buttons -->
 <p align="center">
-  <a href="https://github.com/SUHEL782?tab=repositories&q=devops">
-    <img src="https://img.shields.io/badge/Explore-DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge&logo=cloud&logoColor=white"/>
+  <a href="#devops">
+    <img src="https://img.shields.io/badge/🚀-DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/SUHEL782?tab=repositories&q=ai">
-    <img src="https://img.shields.io/badge/Explore-AI%2FML-6366f1?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="#aiml">
+    <img src="https://img.shields.io/badge/🤖-AI%2FML-6366f1?style=for-the-badge"/>
   </a>
 </p>
 
@@ -36,7 +37,6 @@
   Resume analysis • Job matching • ATS optimization feedback<br/>
   <sub>Built with FastAPI • Docker • Next.js • CI/CD • AWS</sub>
 </p>
-
 <p align="center">
   <a href="https://leetcode.com/u/iF2qKmHzCO/">
     <img src="https://img.shields.io/badge/DSA%20%26%20SQL-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -104,6 +104,8 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
+<!-- ✅ FIX: Added anchor -->
+<a id="devops"></a>
 ## Featured Projects | Cloud & DevOps
 
 | Project | Description |
@@ -116,6 +118,8 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
+<!-- ✅ FIX: Added anchor -->
+<a id="aiml"></a>
 ## Featured Projects | AI / ML
 
 | Project | Description |
