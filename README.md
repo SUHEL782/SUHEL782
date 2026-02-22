@@ -122,9 +122,7 @@ I design and deploy:
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url">
     <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
-  <a href="https://www.credly.com">
-    <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
