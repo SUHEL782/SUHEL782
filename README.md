@@ -10,8 +10,8 @@
 
 <h3 align="center">
   Hi, I'm <b>Suhel Khan</b><br/>
-  Cloud • DevOps • AI/ML Engineer<br/>
-  ⬇️ Explore my DevOps & AI/ML projects below 👇
+  Cloud • DevOps Engineer<br/>
+  ⬇️ Explore my DevOps & Cloud projects below 👇
 </h3>
 
 <!-- Anchor Buttons -->
@@ -19,10 +19,9 @@
   <a href="#devops">
     <img src="https://img.shields.io/badge/👉%20DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
   </a>
- 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder" />
 
 <p align="center">
   <a href="https://ats_s.in">
@@ -65,8 +64,6 @@ I design and deploy:
 - Containerized applications on Kubernetes  
 - Production-ready SaaS platforms  
 
-Alongside DevOps, I also work with **AI/ML foundations**, building API-based inference services and MLOps workflows.
-
 > Automation + Reliability + Scale = Real Engineering
 
 ---
@@ -87,15 +84,6 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
-### AI / ML Foundations & MLOps
-
-- Machine Learning: Scikit-learn, Pandas, NumPy  
-- NLP: TF-IDF, Bag of Words  
-- Backend APIs: FastAPI  
-- MLOps: Dockerized models, CI/CD deployments  
-
----
-
 ### Programming
 
 - Python  
@@ -113,9 +101,6 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 | [Production Monitoring Stack](https://github.com/SUHEL782/End_To_End_DevOPS_Pipeline.git) | Prometheus + Grafana observability |
 | [Multi-Environment Automation](https://github.com/SUHEL782/two-tier-flask-app) | Terraform & Ansible (**60% faster setup**) |
 | [Terraform Infrastructure](https://github.com/SUHEL782/terraformconcept.com) | AWS VPC, EC2, networking automation |
-
----
-
 
 ---
 
