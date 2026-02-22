@@ -101,9 +101,10 @@ Alongside DevOps, I work with **AI/ML foundations**, building API-based inferenc
 |-------|------------|
 | [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes deployment with Prometheus & Grafana monitoring |
 | [**BankApp – CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
+| [**Production Monitoring Stack**](https://github.com/SUHEL782/End_To_End_DevOPS_Pipeline.git) | Prometheus + Grafana observability with alerting (End_to_pipeline)|
 | [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Dev/Stage/Prod automation using Terraform & Ansible (**60% infra setup reduction**) |
 | [**Terraform Infrastructure Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, networking & security |
-| [**Production Monitoring Stack**](https://github.com/SUHEL782/fusionpact-devops-challenge) | Prometheus + Grafana observability with alerting |
+
 
 ---
 
