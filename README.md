@@ -11,16 +11,16 @@
 <h3 align="center">
   Hi, I'm <b>Suhel Khan</b><br/>
   Cloud • DevOps • AI/ML Engineer<br/>
-  ⬇️ Please click below to explore my DevOps & AI/ML projects
+  ⬇️ Explore my DevOps & AI/ML projects below 👇
 </h3>
 
-<!-- ✅ Anchor Buttons -->
+<!-- Anchor Buttons -->
 <p align="center">
   <a href="#devops">
-    <img src="https://img.shields.io/badge/-👉 DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/👉%20DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
   </a>
   <a href="#aiml">
-    <img src="https://img.shields.io/badge/-👉 AI%2FML-6366f1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/👉%20AI%2FML-6366f1?style=for-the-badge"/>
   </a>
 </p>
 
@@ -37,6 +37,7 @@
   Resume analysis • Job matching • ATS optimization feedback<br/>
   <sub>Built with FastAPI • Docker • Next.js • CI/CD • AWS</sub>
 </p>
+
 <p align="center">
   <a href="https://leetcode.com/u/iF2qKmHzCO/">
     <img src="https://img.shields.io/badge/DSA%20%26%20SQL-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -104,7 +105,6 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
-<!-- ✅ FIX: Added anchor -->
 <a id="devops"></a>
 ## Featured Projects | Cloud & DevOps
 
@@ -118,7 +118,6 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
-<!-- ✅ FIX: Added anchor -->
 <a id="aiml"></a>
 ## Featured Projects | AI / ML
 
