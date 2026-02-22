@@ -17,10 +17,10 @@
 <!-- ✅ Anchor Buttons -->
 <p align="center">
   <a href="#devops">
-    <img src="https://img.shields.io/badge/🚀-DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
   </a>
   <a href="#aiml">
-    <img src="https://img.shields.io/badge/🤖-AI%2FML-6366f1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-AI%2FML-6366f1?style=for-the-badge"/>
   </a>
 </p>
 
