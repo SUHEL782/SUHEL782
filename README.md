@@ -11,7 +11,7 @@
 <h3 align="center">
   Hi, I'm <b>Suhel Khan</b><br/>
   Cloud • DevOps • AI/ML Engineer<br/>
-  ⬇️ Explore my projects below --
+  ⬇️ Explore my projects below
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LIVE%20SaaS-ATS%20Resume%20Checker-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-# Center alignment 
+
 <p align="center">
   <b>ATS Resume Checker – Production SaaS Platform</b><br/> 
   Resume analysis • Job matching • ATS optimization feedback<br/>
@@ -49,17 +49,17 @@
 
 ## About Me
 
-I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.. 
+I’m **Suhel Khan**, a **Cloud & DevOps Engineer and SaaS Product Builder** from India 🇮🇳.  
 I design and deploy:
 
-- **Scalable cloud infrastructure**
-- **CI/CD automation pipelines**
-- **Containerized applications on Kubernetes**
-- **Production-ready SaaS platforms**
+- Scalable cloud infrastructure  
+- CI/CD automation pipelines  
+- Containerized applications on Kubernetes  
+- Production-ready SaaS platforms  
 
-Alongside DevOps, I work with **AI/ML foundations**, building API-based inference services and MLOps workflows.
+Alongside DevOps, I also work with **AI/ML foundations**, building API-based inference services and MLOps workflows.
 
-> **Automation + Reliability + Scale = Real Engineering**
+> Automation + Reliability + Scale = Real Engineering
 
 ---
 
@@ -71,50 +71,49 @@ Alongside DevOps, I work with **AI/ML foundations**, building API-based inferenc
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,github,linux" height="42"/>
 </p>
 
-- **Cloud:** AWS (EC2, ECS, EKS, S3, IAM, VPC, CloudWatch)
-- **CI/CD:** Jenkins, GitHub Actions
-- **Infrastructure as Code:** Terraform, Ansible
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Monitoring & Observability:** Prometheus, Grafana
+- Cloud: AWS (EC2, ECS, EKS, S3, IAM, VPC, CloudWatch)  
+- CI/CD: Jenkins, GitHub Actions  
+- IaC: Terraform, Ansible  
+- Containers: Docker, Kubernetes  
+- Monitoring: Prometheus, Grafana  
 
 ---
 
 ### AI / ML Foundations & MLOps
 
-- Machine Learning: Scikit-learn, Pandas, NumPy
-- NLP: TF-IDF, Bag of Words
-- Backend APIs: FastAPI-based ML inference services
-- MLOps: Dockerized models, CI/CD-driven deployments
+- Machine Learning: Scikit-learn, Pandas, NumPy  
+- NLP: TF-IDF, Bag of Words  
+- Backend APIs: FastAPI  
+- MLOps: Dockerized models, CI/CD deployments  
 
 ---
 
 ### Programming
 
-- Python (automation, backend services, scripting)
-- SQL (joins, aggregations, query optimization)
+- Python  
+- SQL  
 
 ---
 
 ## Featured Projects | Cloud & DevOps
 
 | Project | Description |
-|-------|------------|
-| [**MERN E-commerce – DevOps Pipeline**](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes deployment with Prometheus & Grafana monitoring |
-| [**BankApp – CI/CD Pipeline**](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS with HPA (**35% faster deployments**) |
-| [**Production Monitoring Stack**](https://github.com/SUHEL782/End_To_End_DevOPS_Pipeline.git) | Prometheus + Grafana observability with alerting (End_to_pipeline)|
-| [**Multi-Environment Automation**](https://github.com/SUHEL782/two-tier-flask-app) | Dev/Stage/Prod automation using Terraform & Ansible (**60% infra setup reduction**) |
-| [**Terraform Infrastructure Provisioning**](https://github.com/SUHEL782/terraformconcept.com) | Automated AWS VPC, EC2, networking & security |
-
+|--------|------------|
+| [MERN E-commerce – DevOps Pipeline](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes deployment with monitoring |
+| [BankApp – CI/CD Pipeline](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS (**35% faster deployments**) |
+| [Production Monitoring Stack](https://github.com/SUHEL782/End_To_End_DevOPS_Pipeline.git) | Prometheus + Grafana observability |
+| [Multi-Environment Automation](https://github.com/SUHEL782/two-tier-flask-app) | Terraform & Ansible (**60% faster setup**) |
+| [Terraform Infrastructure](https://github.com/SUHEL782/terraformconcept.com) | AWS VPC, EC2, networking automation |
 
 ---
 
-##  Featured Projects | AI / ML
+## Featured Projects | AI / ML
 
 | Project | Description |
-|-------|------------|
-| [**AI/ML Microservice – FastAPI & Docker**](https://github.com/SUHEL782/aiml-microservice) | Scalable ML inference service |
-| [**Text Classification Model**](https://github.com/SUHEL782/text-classifier) | NLP model using TF-IDF & BoW with **92% accuracy**, CI/CD enabled |
-| [**AI Analytics Pipeline**](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline from preprocessing to evaluation |
+|--------|------------|
+| [AI/ML Microservice](https://github.com/SUHEL782/aiml-microservice) | FastAPI + Docker ML service |
+| [Text Classification](https://github.com/SUHEL782/text-classifier) | NLP model (**92% accuracy**) |
+| [AI Analytics Pipeline](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline |
 
 ---
 
@@ -137,7 +136,7 @@ Alongside DevOps, I work with **AI/ML foundations**, building API-based inferenc
     <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   <a href="https://www.credly.com">
-    <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   </a>
 </p>
 
