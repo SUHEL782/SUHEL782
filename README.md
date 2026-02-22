@@ -19,9 +19,7 @@
   <a href="#devops">
     <img src="https://img.shields.io/badge/👉%20DevOps%20%26%20Cloud-0ea5e9?style=for-the-badge"/>
   </a>
-  <a href="#aiml">
-    <img src="https://img.shields.io/badge/👉%20AI%2FML-6366f1?style=for-the-badge"/>
-  </a>
+ 
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+FastAPI;Production-Ready+SaaS+Builder;AI%2FML+Foundations" />
@@ -118,14 +116,6 @@ Alongside DevOps, I also work with **AI/ML foundations**, building API-based inf
 
 ---
 
-<a id="aiml"></a>
-## Featured Projects | AI / ML
-
-| Project | Description |
-|--------|------------|
-| [AI/ML Microservice](https://github.com/SUHEL782/aiml-microservice) | FastAPI + Docker ML service |
-| [Text Classification](https://github.com/SUHEL782/text-classifier) | NLP model (**92% accuracy**) |
-| [AI Analytics Pipeline](https://github.com/SUHEL782/ai-analytics-pipeline) | End-to-end ML pipeline |
 
 ---
 
