@@ -99,7 +99,7 @@ I design and deploy:
 | [MERN E-commerce – DevOps Pipeline](https://github.com/SUHEL782/MERN-Ecommerce) | Kubernetes deployment with monitoring |
 | [BankApp – CI/CD Pipeline](https://github.com/SUHEL782/Springboot-BankApp-DevOps) | Jenkins, Docker, Helm, Terraform & AWS EKS (**35% faster deployments**) |
 | [Production Monitoring Stack](https://github.com/SUHEL782/End_To_End_DevOPS_Pipeline.git) | Prometheus + Grafana observability |
-| [Two-tier -Application(Terraform)](https://github.com/SUHEL782/devops-practice-hub-with-projects/tree/main/DevOps%20Project-02) | his project adopts a modular and security-enhanced approach to create a scalable and maintainable infrastructure. |
+| [Two-tier -Application(Terraform)](https://github.com/SUHEL782/devops-practice-hub-with-projects/tree/main/DevOps%20Project-02) | This project adopts a modular and security-enhanced approach to create a scalable and maintainable infrastructure. |
 | [Multi-Environment Automation](https://github.com/SUHEL782/two-ter-flask-app) | Terraform & Ansible (**60% faster setup**) |
 | [Terraform Infrastructure](https://github.com/SUHEL782/terraformconcept.com) | AWS VPC, EC2, networking automation |
 
