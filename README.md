@@ -11,7 +11,7 @@
 <h3 align="center">
   Hi, I'm <b>Suhel Khan</b><br/>
   Cloud • DevOps Engineer<br/>
-  ⬇️ Explore my DevOps & Cloud projects below 👇
+  ⬇️ Explore my DevOps & Cloud Projects below 👇
 </h3>
 
 <!-- Anchor Buttons -->
