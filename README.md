@@ -117,7 +117,7 @@ I design and deploy:
 
 ---
 
-## Certifications
+# Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/46be7442-7ba7-4b97-9b4d-f2e20d6fb149/public_url">
