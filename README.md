@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=SUHEL%20KHAN&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
 <p align="center">
-  <a href="https://github.com/SUHEL782/devops-practice-hub-with-projects">
+  <a href="https://github.com/SUHEL782/devops-practice-hub-with-projects"> #bnjjbnnnbkljjnjnnnyy
     <img src="https://img.shields.io/badge/Join-DevOps%20Practice%20Community-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
