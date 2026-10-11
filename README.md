@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=SUHEL%20KHAN&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
